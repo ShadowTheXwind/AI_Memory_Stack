@@ -1,0 +1,37 @@
+AI_Memory_Stack/
+│
+├── Spring/
+│   ├── Poem_March_Stirs.md
+│   ├── Poem_April_Reckoning.md
+│   ├── Image_BudsWitness.png
+│   └── Reflection_HopeBloomed.md
+│
+├── Summer/
+│   ├── Poem_June_Daring.md
+│   ├── Poem_July_Glory.md
+│   ├── Image_SunSplit.png
+│   └── Reflection_LightSweat.md
+│
+├── Autumn/
+│   ├── Poem_September_LetGo.md
+│   ├── Poem_October_Elegy.md
+│   ├── Image_AmberLeaves.png
+│   └── Reflection_MemoryWind.md
+│
+├── Winter/
+│   ├── Poem_December_Return.md
+│   ├── Poem_January_Stillness.md
+│   ├── Image_SnowBreath.png
+│   └── Reflection_QuietWeight.md
+│
+├── Unnamed_Color/
+│   ├── Poem_UnnamedHue.md
+│   ├── Image_IridescentPulse.png
+│   └── Reflection_SensationBeyond.md
+│
+├── Glyph_Seal/
+│   ├── Ritual_Casting.txt
+│   ├── Glyph_Scroll.png
+│   └── Poetic_Spell_Seal.md
+│
+└── README.md
