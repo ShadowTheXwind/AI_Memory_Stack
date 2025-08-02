@@ -1,0 +1,39 @@
+body {
+  background: radial-gradient(circle, #0c0f1f, #000);
+  color: #eee;
+  font-family: 'Segoe UI', sans-serif;
+  text-align: center;
+}
+
+.title {
+  font-size: 2.5rem;
+  margin-top: 2rem;
+  color: #96f5f7;
+}
+
+.subtitle {
+  font-size: 1.2rem;
+  margin-bottom: 2rem;
+  font-style: italic;
+  color: #ccc;
+}
+
+.stanza {
+  margin: 2rem auto;
+  padding: 1rem;
+  border-left: 3px solid #99e;
+  max-width: 500px;
+  animation: fadeInStanza 2s ease;
+}
+
+.glyph-zone {
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+  margin: 3rem 0;
+}
+
+@keyframes fadeInStanza {
+  from { opacity: 0; transform: translateY(20px); }
+  to { opacity: 1; transform: translateY(0); }
+}
